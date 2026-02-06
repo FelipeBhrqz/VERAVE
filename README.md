@@ -28,7 +28,7 @@ python main.py
 En `data/examples/primera_vuelta/` tienes:
 
 - `reporte_v1.pdf`
-- `datos_completos_mal2.csv` (fase 2 fallida: total por candidato)
+- `datos_completos_fase2.csv` (fase 2 fallida: total por candidato)
 - `datos_completos_fase1.csv` (fase 1 fallida: F/M candidato)
 - `datos_completos_fase3.csv` (fase 3 fallida: votos validos)
 - `datos_completos_fase4.csv` (fase 4 fallida: blancos/nulos)
